@@ -11,10 +11,18 @@ const Head = () => {
           </div>
 
           <div className='social'>
+          <a href="https://www.facebook.com/sankalp.nitpatna?mibextid=eHce3h">
             <i className='fab fa-facebook-f icon'></i>
+            </a>
+            <a href="https://www.instagram.com/sankalp_nss_nitp/">
             <i className='fab fa-instagram icon'></i>
+            </a>
+            {/* <a href="https://www.instagram.com/sankalp_nss_nitp/">
             <i className='fab fa-twitter icon'></i>
+            </a> */}
+            <a href="https://youtube.com/@sankalp-ghargharshikshakaa6348?si=pSuJXSmLXy9ToTUP">
             <i className='fab fa-youtube icon'></i>
+            </a>
           </div>
         </div>
       </section>
