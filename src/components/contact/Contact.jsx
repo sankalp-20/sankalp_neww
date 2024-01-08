@@ -14,7 +14,7 @@ const Contact = () => {
           </div>
           <div className='right row'>
             <h1>Contact us</h1>
-            <p>We're open for any suggestion or just to have a chat</p>
+            <p>We are open for any suggestion or just to have a chat</p>
 
             <div className='items grid2'>
               <div className='box'>
