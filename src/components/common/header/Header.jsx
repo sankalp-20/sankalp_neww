@@ -28,7 +28,7 @@ const Header = () => {
               <Link to='/pricing'>Core Alumni</Link>
             </li>
             <li>
-              <Link to='/journal'>Our Stories</Link>
+              <Link to='/journal'>Our Notices</Link>
             </li>
             <li>
               <Link to='/contact'>Contact</Link>
